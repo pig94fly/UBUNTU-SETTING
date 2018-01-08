@@ -1,0 +1,37 @@
+学习中看到一些博客和文章，对自己学习很有帮助，由于保存成书签容易混淆，所以在这立个帖子以作保存。
+
+redis作为mysql的缓存服务器(读写分离)
+http://www.cnblogs.com/hellowzd/p/5163782.html
+这篇博客描述了Redis作为MySQL缓存时的用作方法，以及相关实现的机制描述，作为入门。
+
+基于canal 的 mysql 与 redis/memcached/mongodb 的 nosql 数据实时同步方案 案例，canal client 
+https://github.com/liukelin/canal_mysql_nosql_sync
+GitHub中的一个案例，可供以后学习参考。
+
+异步社区--学习Redis从这里开始
+http://www.epubit.com.cn/article/200
+该文是一本书的介绍，里面有一小段相关案例的介绍，如redis作为热门文章排行数据库的一点小方案。
+
+CSRF Token介绍与应对策略
+http://blog.csdn.net/lion19930924/article/details/50955000
+博客讲述了一些CSRF攻击的案例，并简单讲述了防范csrf攻击的一些方法。
+
+Ubuntu 16.04环境中安装PHP7.0 Redis扩展
+http://www.linuxidc.com/Linux/2016-09/135631.htm
+博客是有关ubuntu16.4系统安装redis扩展的方法
+
+ubuntu 16.04安装php7.0 redis扩展及使用php操作redis
+http://blog.csdn.net/zls986992484/article/details/52730725
+这篇文章是安装redis
+
+Linux上安装Redis(Ubuntu16.04+Redis）
+http://blog.csdn.net/pucao_cug/article/details/69250101
+博客详述了redis安装的教程，实测可安装redis4.0.0
+
+Ubuntu 16.04 一系列软件安装命令，包括QQ、搜狗、Chrome、vlc、网易云音乐安装方法
+http://blog.csdn.net/fuchaosz/article/details/51882935
+经过测试可以安装chrome，网易云音乐
+
+双系统Ubuntu无法访问Win10磁盘分区解决方法
+http://blog.csdn.net/eagle51/article/details/52890699
+一般情况下，ubuntu可以访问win系统的磁盘，而win不能访问ubuntu的磁盘，当win开启快速启动时，因为win系统没有真正关机，所以无法访问win磁盘，只需关闭即可，这样也无效的情况下，打开cli修复。
